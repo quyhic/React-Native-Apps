@@ -6,17 +6,74 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Facebook F8 App](https://github.com/fbsamples/f8app) - Facebook Official F8 Open Source App
+* [iTunes Store](https://itunes.apple.com/us/app/f8/id853467066)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.facebook.f8)
+
+[Hide The Notch](https://github.com/MoOx/HideTheNotch) - A wallpaper app to hide the iPhone X notch
+* [iTunes Store](https://itunes.apple.com/us/app/hide-the-notch/id1312839983?ls=1&mt=8)
+
+[RSG Chess](https://github.com/RSG-Group/RSG-Chess-mobile) - Open source chess game built from scratch for the [web](http://rsg-chess.now.sh) and adapted for Android using React Native
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.rsg.chess)
+* [Amazon AppStore](https://www.amazon.com/RSG-Group-Chess/dp/B07D1KWTK7)
+
+[Pocat](https://github.com/rotembcohen/pokerBuddyApp) - Organize casual poker games
+* [Exponent](https://expo.io/@rotembcohen/pocat)
+* [iTunes Store](https://itunes.apple.com/us/app/pocat/id1277176782?ls=1&mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.hecodesthings.pocat)
+
+[Cryptobullography](https://github.com/WebStew/bullet) - Cryptocurrency converter, manager and tracker.
+* [Exponent](https://expo.io/@terminalpunk/bullet)
+* [iTunes Store](https://itunes.apple.com/gb/app/crypto-coin-bull/id1257246245?mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.webstew.bullet&hl=en)
+
+[Equation Solver](https://github.com/ebouJ/Equation-Solver) - 
+A cross-platform equation solver that solves linear, quadratic,  and cubic equation. Also solves two and three variables simultaneous equation. Heavily typed with typescript.
+
+* [iTunes Store](https://itunes.apple.com/us/app/equation-solver/id1420956198?mt=8)
+
+
+[Boostnote Mobile](https://github.com/BoostIO/boostnote-mobile) - Markdown notepad for programmers!
+* [iTunes Store](https://itunes.apple.com/us/app/boostnote/id1273066636?mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=io.boostnote)
+
+[Gas/Oil Mix Ratio Calculator](https://github.com/filippofilip95/gas-oil-mixture-mobile) - Mobile app which calculate Gasoline/Oil mix ratio for 2 stroke engines.
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.filippofilip.oilratiocalc)
+
+
+[ndash](https://github.com/alexindigo/ndash) - your npm dashboard!
+* [iTunes Store](https://appsto.re/us/nY9Sib.i)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.ndash)
+
+
+[Chain React Conf](https://github.com/infinitered/ChainReactApp) by Infinite Red - Official Conference App for the [Chain React Conference](https://infinite.red/ChainReactConf)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.chainreactapp&hl=en)
+* [iTunes Store](https://itunes.apple.com/us/app/chain-react-conf/id1239112816?mt=8)
+
+[Hacker Buzz](https://github.com/RCiesielczuk/HackerBuzz-ReactNative) - A Hacker News Reader App
+* [iTunes Store](https://itunes.apple.com/app/hacker-buzz/id1292825792?mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.hackerbuzz)
+
+[Joplin](https://github.com/laurent22/joplin) - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+* [iTunes Store](https://itunes.apple.com/us/app/joplin/id1315599797?mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=net.cozic.joplin)
+
 [ComicBook](https://github.com/liyuechun/ComicBook)
-
 liyuechun
-
 Cool comic books, supporting iOS and Android.
 
+[Canvas Teacher](https://github.com/instructure/instructure-ios/tree/master/rn/Teacher) - Instructure
+* [iTunes Store](https://itunes.apple.com/us/app/canvas-teacher/id1257834464?mt=8)
 
+[Cat or Dog](https://github.com/punksta/Cat-or-dog) - Drag-n-drop mobile game.
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.punksta.apps.sortgame)
 
 [Daily Prices](http://ansolutions.co/prices-today) - [Google Play Store](https://play.google.com/store/apps/details?id=com.na.prices.today&hl=en)  
  AN Solutions  
  Daily Prices is an app for showing updated daily products prices in Egypt, Gold and sliver prices and Currency exchange for major banks in Egypt.
+
+
+[What the Thing?](https://github.com/vigzmv/what_the_thing) -  Point camera at things to learn how to say them in a different language.
 
 
 [F1 Stats](https://github.com/srdjanprpa/FormulaOne) - [Google Play Store](https://play.google.com/store/apps/details?id=com.formula1info)  
@@ -34,6 +91,13 @@ A complete template for React Native apps with sidemenu.
 [Den](https://github.com/asamiller/den)  
 Asa Miller  
 iPhone app built with React Native for viewing houses for sale in the Northwest
+
+[DuckDuckGo (Unofficial)](https://github.com/kiok46/duckduckgo)
+Kuldeep Singh
+Unofficial DuckDuckGo App in React-Native.
+
+[SwipeHunt for Product Hunt](https://github.com/notifme/swipehunt)
+A fun minimalistic unofficial client for Product Hunt. crna + expo + native-base
 
 [Feline for Product Hunt](https://github.com/arjunkomath/Feline-for-Product-Hunt/)  
 A beautiful, Open Source unofficial Android app for Product Hunt. [Try it here](https://expo.io/@community/feline)
@@ -61,9 +125,9 @@ Uses Three.js via EXGL (an implementation of WebGL for Exponent) for a semi-3d t
 Wang Zixiao  
 Cool NBA App written in RN
 
-[UI Explorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)  
+[RNTester](https://github.com/facebook/react-native/tree/master/RNTester)  
 Facebook  
-The UIExplorer is a sample app that showcases React Native views and modules.
+The RNTester showcases React Native views and modules.
 
 [Multiple Apps by Christopher Dro](https://github.com/christopherdro)  
 Christopher Dro
@@ -72,7 +136,7 @@ Christopher Dro
 Brent Vatne  
 Demonstrates a variety of components built into React Native and Exponent. [Try it here](https://getexponent.com/@community/native-component-list)
 
-[React Native Github Notetaker](react-native-gh-notetaker)  
+[React Native Github Notetaker](https://github.com/tylermcginnis/react-native-gh-notetaker)
 Tyler Mcginnis  
 React Native app using the Github API
 
@@ -236,4 +300,59 @@ Clean and simple timetable app for iOS.
 Vernon Pearson
 Rejoice hackers and makers! A music library that talks to your bluetooth devices
 
+[Gitter Mobile](https://github.com/JSSolutions/GitterMobile)  
+[JSSolutions](https://github.com/JSSolutions/)  
+Unofficial Gitter.im (chat for GitHub) client for iOS and Android, [read more](https://jssolutionsdev.com/portfolio/gitter/)
 
+[Perfi](https://github.com/JSSolutions/Perfi)  
+[JSSolutions](https://github.com/JSSolutions/)  
+Personal finance assistance, [read more](https://jssolutionsdev.com/portfolio/perfi/)
+
+[SplitCloud](https://github.com/egm0121/splitcloud-app) - [App Store](https://itunes.apple.com/us/app/splitcloud/id1244515007?mt=8)  
+Giulio Dellorbo  
+Double Music player - share your headphones and play two different tracks from SoundCloud® using one device.
+
+[GitPoint](https://github.com/gitpoint/git-point) - [Google Play](https://play.google.com/store/apps/details?id=com.gitpoint), [iTunes](https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8)  
+A beautiful mobile GitHub client for both iOS and Android.
+
+[PxView](https://github.com/alphasp/pxview) - [Google Play](https://play.google.com/store/apps/details?id=com.utopia.pxview)   
+HK Kuah   
+An unofficial Pixiv app client for Android and iOS
+
+[Ruk-A-Tuk](https://github.com/akilb/rukatuk-mobile) - [Google Play](https://play.google.com/store/apps/details?id=com.rukatuk.app&hl=en_GB), [iTunes](https://itunes.apple.com/us/app/ruk-a-tuk/id1273614449?ls=1&mt=8)  
+Akil Burgess  
+The official app for Ruk-A-Tuk Promotions - London's most innovative Caribbean themed parties!
+
+[Musicly](https://github.com/saru2020/Musicly) <br/> 
+[Saravanan](https://github.com/saru2020) <br/>
+React Native app/version of Noisli's core functionality! [Read more](https://medium.com/@saruiosdev/musicly-noisli-in-react-native-efd14023bd7c)
+
+[thecatnatice](https://github.com/punksta/thecatnative) - [Google Play](https://play.google.com/store/apps/details?id=com.punksta.apps.kitties)   
+The http://thecatapi.com/ unofficial client. Random cat photos and gifs feed.
+
+[MEHNEWS](https://github.com/fromtexas/react-native-news-app) <br/> 
+[Veskelen](https://github.com/fromtexas) <br/>
+Get breaking news headlines with short description filtered by your interests and country preferences.
+
+[Zulip Mobile](https://github.com/zulip/zulip-mobile) - The official mobile client for Zulip - powerful open source team chat.
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.zulipmobile)
+* [iTunes Store](https://itunes.apple.com/us/app/zulip/id1203036395)
+
+[Mattermost Mobile Applications](https://github.com/mattermost/mattermost-mobile) - The official React Native mobile clients for Mattermost an open source workplace messaging solution.
+* [iOS](http://about.mattermost.com/mattermost-ios-app/)
+* [Android](http://about.mattermost.com/mattermost-android-app/)
+
+[Online Wallpapers](https://github.com/mrf345/online-wallpapers) <br />
+[Mohamed Feddad](https://github.com/mrf345) <br />
+Android wallpapers manager built with react-native and utlizes reddit api.
+
+[RebelGamer Mobile App](https://github.com/Mokkapps/rebelgamer-mobile-app) <br />
+[Mokkapps](https://github.com/Mokkapps) <br />
+Mobile app for the gaming blog www.rebelgamer.de.
+
+[Pride in London App](https://github.com/redbadger/pride-london-app) - Official events app for Pride in London
+* [iTunes Store](https://itunes.apple.com/gb/app/pride-in-london/id1250496471)
+* [Google Play Store](https://play.google.com/store/apps/details?id=org.prideinlondon.festival)
+
+[Forex Rates](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates, Currency converter mobile app using ReactNative
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.forexrates)
